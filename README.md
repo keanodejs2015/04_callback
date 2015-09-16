@@ -6,4 +6,4 @@
 
 ## Credits
 
-(C) Kea 16/09-2015 - [clbo@kea.dk]  (mailto:clbo@kea.dk)
+&copy; Kea 16/09-2015 - [clbo@kea.dk]  (mailto:clbo@kea.dk)
